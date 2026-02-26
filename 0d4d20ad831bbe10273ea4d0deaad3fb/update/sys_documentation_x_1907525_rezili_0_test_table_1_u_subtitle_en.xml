@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_subtitle" label="Subtitle" language="en" table="x_1907525_rezili_0_test_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_subtitle</element>
+            <help/>
+            <hint/>
+            <label>Subtitle</label>
+            <language>en</language>
+            <name>x_1907525_rezili_0_test_table_1</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-26 01:40:59</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Subtitle</sys_name>
+            <sys_package display_value="RezilientTest" source="x_1907525_rezili_0">0d4d20ad831bbe10273ea4d0deaad3fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RezilientTest">0d4d20ad831bbe10273ea4d0deaad3fb</sys_scope>
+            <sys_update_name>sys_documentation_x_1907525_rezili_0_test_table_1_u_subtitle_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-26 01:41:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
