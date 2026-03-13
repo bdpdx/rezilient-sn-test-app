@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-02-26 01:39:45</sys_created_on>
-        <sys_id>939eec21835bbe10273ea4d0deaad33e</sys_id>
+        <sys_created_on>2026-03-13 07:37:40</sys_created_on>
+        <sys_id>24609f9a53ef321012bb7ab0a0490eb9</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1907525_rezili_0_test_table_1.x_1907525_rezili_0.admin</sys_name>
+        <sys_name>x_1907525_rezili_0_test_table.x_1907525_rezili_0.admin</sys_name>
         <sys_package display_value="RezilientTest" source="x_1907525_rezili_0">0d4d20ad831bbe10273ea4d0deaad3fb</sys_package>
         <sys_policy/>
         <sys_scope display_value="RezilientTest">0d4d20ad831bbe10273ea4d0deaad3fb</sys_scope>
-        <sys_security_acl display_value="x_1907525_rezili_0_test_table_1">d39eec21835bbe10273ea4d0deaad339</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_939eec21835bbe10273ea4d0deaad33e</sys_update_name>
+        <sys_security_acl display_value="x_1907525_rezili_0_test_table">a0609f9a53ef321012bb7ab0a0490eb4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24609f9a53ef321012bb7ab0a0490eb9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-26 01:39:45</sys_updated_on>
+        <sys_updated_on>2026-03-13 07:37:40</sys_updated_on>
         <sys_user_role display_value="x_1907525_rezili_0.admin" name="x_1907525_rezili_0.admin">c14d60ad831bbe10273ea4d0deaad31e</sys_user_role>
     </sys_security_acl_role>
 </record_update>

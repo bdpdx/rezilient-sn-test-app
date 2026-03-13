@@ -9,22 +9,22 @@
         <decision_type>allow</decision_type>
         <description/>
         <local_or_existing>Existing</local_or_existing>
-        <name>x_1907525_rezili_0_test_table_1</name>
-        <operation display_value="write">write</operation>
+        <name>x_1907525_rezili_0_test_table</name>
+        <operation display_value="delete">delete</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-02-26 01:39:45</sys_created_on>
-        <sys_id>d39eec21835bbe10273ea4d0deaad339</sys_id>
+        <sys_created_on>2026-03-13 07:37:40</sys_created_on>
+        <sys_id>2c609f9a53ef321012bb7ab0a0490eca</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1907525_rezili_0_test_table_1</sys_name>
+        <sys_name>x_1907525_rezili_0_test_table</sys_name>
         <sys_package display_value="RezilientTest" source="x_1907525_rezili_0">0d4d20ad831bbe10273ea4d0deaad3fb</sys_package>
         <sys_policy/>
         <sys_scope display_value="RezilientTest">0d4d20ad831bbe10273ea4d0deaad3fb</sys_scope>
-        <sys_update_name>sys_security_acl_d39eec21835bbe10273ea4d0deaad339</sys_update_name>
+        <sys_update_name>sys_security_acl_2c609f9a53ef321012bb7ab0a0490eca</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-26 01:39:45</sys_updated_on>
+        <sys_updated_on>2026-03-13 07:37:40</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

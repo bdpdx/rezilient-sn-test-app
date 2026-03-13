@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="13505f9a53ef321012bb7ab0a0490e07" label="Test Table" max_length="40" name="x_1907525_rezili_0_test_table" type="collection">
+        <element label="Count" max_length="40" name="u_count" type="integer"/>
+        <element label="Value" max_length="40" name="u_value" type="string"/>
+        <element label="Key" mandatory="true" max_length="40" name="u_key" type="string"/>
+    </element>
+</database>
